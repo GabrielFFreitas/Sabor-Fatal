@@ -1,0 +1,63 @@
+.card {
+    background-color: #640000;
+    height: 500px;
+    width: 100%;
+}
+
+.card-body {
+    display: flex;
+    justify-content: space-between;
+}
+
+.banner {
+    margin-bottom: 15%;
+}
+
+.card-produto {
+    margin-bottom: 3.5%;
+}
+
+.donut {
+    height: 450px;
+}
+
+.faixa {
+    display: flex;
+    justify-content: center;
+}
+
+.img-banner {
+
+}
+
+.produto {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.produtos-bolo {
+    border-radius: 25%;
+    color: white;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    background-color: #640000;
+}
+
+.texto-promocao {
+    color: white;
+    align-self: center;
+    width: 224px;
+}
+
+.texto-mais-vendido {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3.5%;
+}
+
+.todos-produtos {
+    display: flex;
+    justify-content: space-evenly;
+}
