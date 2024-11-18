@@ -1,4 +1,4 @@
-.card {
+.card-p {
     background-color: #640000;
     height: 500px;
     width: 100%;
@@ -7,6 +7,10 @@
 .card-body {
     display: flex;
     justify-content: space-between;
+}
+
+.card-carrosel {
+    background-color: #ffcece;
 }
 
 .banner {
@@ -36,10 +40,16 @@
     
 }
 
-.produtos-bolo {
+.outras-opcoes {
+    display: flex;
+    justify-content: center;
+    background-color: #ffcece;
+}
+
+.produtos-faixa {
     border-radius: 25%;
     color: white;
-    width: 150px;
+    width: 75%;
     display: flex;
     justify-content: center;
     background-color: #640000;
@@ -57,7 +67,14 @@
     margin-bottom: 3.5%;
 }
 
-.todos-produtos {
+.texto-outras-opcoes {
+    display: flex;
+    justify-content: center;
+    background-color: #ffcece;
+}
+
+.produtos-mais-vendidos {
     display: flex;
     justify-content: space-evenly;
+    margin-bottom: 10%;
 }
