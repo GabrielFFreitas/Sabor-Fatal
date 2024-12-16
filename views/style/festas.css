@@ -1,0 +1,173 @@
+.tittle-1{
+    text-align: center;
+    margin-right: 140px;
+    margin-left: 140px;
+    padding: 3px;
+    background-color: #E45174;
+    box-shadow: 0px 0px 10px 3px white;
+}
+
+.background-festas{
+    background-image: url(../../img/background-celebre.png);
+    background-size:100vw;
+    background-repeat: no-repeat;
+    background-position: start;
+    height: 1000px; 
+    padding-top: 150px;
+}
+
+.planos-tittle{
+    box-shadow: 0px 0px 10px 4px #F47D9A;
+    padding: 0px 55px;
+    margin: auto;
+    width: fit-content;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.planos-tittle-2{
+    box-shadow: 0px 0px 10px 6px white;
+    background-color: #F47D9A;
+    padding: 0px 55px;
+    margin: auto;
+    width: fit-content;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.g-card{
+    background-color: #D9D9D9;
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 40px;
+}
+.g-card-premium{
+    background-color: #F8A9BC;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0px 0px 7px 2px #640000;
+    margin-bottom: 50px;
+}
+.card-tittle{
+    margin-top: -50px;
+}
+
+.planos{
+    background-color: #F47D9A;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.img-planos{
+    max-width: 30vw;
+}
+
+.eventos{
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 200px;
+    box-shadow: 0px 0px 10px 5px #640000;
+}
+.star{
+    max-width: 120px;
+}
+.img-eventos{
+    max-width: 70%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+@media (max-width: 600px) {
+    
+    .f-80{
+        font-size: 25px;
+    }
+    .f-60{
+        font-size: 25px;
+    }
+    .tittle-1{
+        text-align: center;
+        margin-right: 40px;
+        margin-left: 40px;
+        padding: 3px;
+        background-color: #E45174;
+        box-shadow: 0px 0px 10px 3px white;
+    }
+    
+    .background-festas{
+        background-image: url(../../img/background-celebre.png);
+        background-size:100vw;
+        background-repeat: no-repeat;
+        background-position: start;
+        height: 300px; 
+        padding-top: 30px;
+    }
+    
+    .planos-tittle{
+        box-shadow: 0px 0px 10px 4px #F47D9A;
+        padding: 0px 55px;
+        margin: auto;
+        width: fit-content;
+        border-radius: 20px;
+        margin-top: 10px;
+        margin-bottom: 40px;
+    }
+    .planos-tittle-2{
+        box-shadow: 0px 0px 10px 6px white;
+        background-color: #F47D9A;
+        padding: 0px 20px;
+        margin: auto;
+        width: fit-content;
+        border-radius: 20px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    
+    .g-card{
+        background-color: #D9D9D9;
+        border-radius: 20px;
+        padding: 5px;
+        margin-bottom: 40px;
+    }
+    .g-card-premium{
+        background-color: #F8A9BC;
+        border-radius: 20px;
+        padding: 5px;
+        box-shadow: 0px 0px 7px 2px #640000;
+        margin-bottom: 50px;
+    }
+    .card-tittle{
+        margin-top: -20px;
+    }
+    
+    .planos{
+        background-color: #F47D9A;
+        padding-top: 10px;
+        padding-bottom: 50px;
+    }
+    
+    .img-planos{
+        max-width: 70vw;
+        margin: auto;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    
+    .eventos{
+        background-color: black;
+        padding-top: 50px;
+        padding-bottom: 100px;
+        box-shadow: 0px 0px 10px 5px #640000;
+    }
+    .star{
+        max-width: 30px;
+    }
+    .img-eventos{
+        max-width: 70%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+
+}

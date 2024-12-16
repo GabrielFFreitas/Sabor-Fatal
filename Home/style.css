@@ -1,0 +1,80 @@
+.card-p {
+    background-color: #640000;
+    height: 500px;
+    width: 100%;
+}
+
+.card-body {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-carrosel {
+    background-color: #ffcece;
+}
+
+.banner {
+    margin-bottom: 15%;
+}
+
+.card-produto {
+    margin-bottom: 3.5%;
+}
+
+.donut {
+    height: 450px;
+}
+
+.faixa {
+    display: flex;
+    justify-content: center;
+}
+
+.img-banner {
+
+}
+
+.produto {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.outras-opcoes {
+    display: flex;
+    justify-content: center;
+    background-color: #ffcece;
+}
+
+.produtos-faixa {
+    border-radius: 25%;
+    color: white;
+    width: 75%;
+    display: flex;
+    justify-content: center;
+    background-color: #640000;
+}
+
+.texto-promocao {
+    color: white;
+    align-self: center;
+    width: 224px;
+}
+
+.texto-mais-vendido {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3.5%;
+}
+
+.texto-outras-opcoes {
+    display: flex;
+    justify-content: center;
+    background-color: #ffcece;
+}
+
+.produtos-mais-vendidos {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 10%;
+}
